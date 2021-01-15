@@ -1,4 +1,5 @@
 ---
+layout: splash
 excerpt: "Purification And Separation Technology Laboratory"
 header:
   overlay_image: /assets/images/LandingPageHeader.jpeg
