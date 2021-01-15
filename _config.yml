@@ -20,7 +20,7 @@ title                    : "PAST"
 title_separator          : "-"
 subtitle                 : "Purification And Separation Technology Laboratory"# site tagline that appears below site title in masthead
 name                     : "PAST"
-description              : "A young and dynamic group of engineers working on solving challenging purification and separation problems of the 21st century."
+description              : ""
 url                      : "https://ash23win.github.io"# the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "ash23win/ash23win.github.io"# GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -93,10 +93,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "PAST"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  bio              : "A young and dynamic group of engineers working on solving challenging purification and separation problems of the 21st century."
+  location         : "XXX, United Kingdom"
   email            :
   links:
     - label: "Email"
@@ -115,7 +115,7 @@ author:
       icon: "fab fa-fw fa-orcid"
       url: "https://orcid.org/0000-0001-8306-455X"  
     - label: "Google Scholar"
-      icon: "fab fa-fw fa-graduation-cap"
+      icon: "fas fa-graduation-cap"
       url: "https://scholar.google.com/citations?user=RbjoJDIAAAAJ&hl=en"
 
 # Site Footer
