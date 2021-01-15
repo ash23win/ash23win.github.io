@@ -1,5 +1,6 @@
 ---
 layout: splash
+permalink: /team/
 ashwin:
   - image_path: /assets/profilePic/Ashwin.jpg
     alt: "Ashwin Kumar Rajagopalan"
