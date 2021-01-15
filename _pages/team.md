@@ -6,9 +6,12 @@ ashwin:
     alt: "Ashwin Kumar Rajagopalan"
     title: "Ashwin Kumar RAJAGOPALAN"
     excerpt: "**SNSF Early Postdoc.Mobility Fellow, Department of Chemical Engineering, Imperial College London, United Kingdom** <br />
-    Dr. Sc. ETH Zurich (2015-2019) <br />
-    MSc University of Alberta (2013-2015) <br />
-    B. Tech National Institute of Technology Tiruchirappalli (2009-2013)"
+    Dr. Sc. ETH Zurich, ETH Zurich, Switzerland **(2015-2019)** <br />
+    MSc Chemical Engineering, University of Alberta, Canada **(2013-2015)** <br />
+    BTech Chemical Engineering, National Institute of Technology Tiruchirappalli (NITT), India **(2009-2013)**  <br /> <br />
+    **Awards  <br />** 
+    EFCE Excellence Award in Crystallization, European Federation of Chemical Engineering, **2020** <br />
+    S. H. Ibrahim Memorial Award for Best Outgoing Student in Chemical Engineering (NITT), **2013** <br />"  
 ---
 
 {% include feature_row id="ashwin" type="left" %}
