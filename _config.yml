@@ -95,7 +95,7 @@ analytics:
 author:
   name             : " "
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "A young and dynamic group of engineers working on solving challenging purification and separation problems of the 21st century."
+  bio              : ""
   location         : "XXX, United Kingdom"
   email            :
   links:
