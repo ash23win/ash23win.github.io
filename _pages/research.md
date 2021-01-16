@@ -1,6 +1,5 @@
 ---
-layout: single
-classes: wide
+layout: splash
 permalink: /research/
 title: "Research"
 author_profile: true
@@ -12,7 +11,7 @@ overview:
     title: "Research Overview"
     excerpt: "Hi There!"
     btn_label: "Particulate Technology"
-    btn_class: "btn--primary"
+    btn_class: "btn btn--primary"
 ---
 
 <br />
