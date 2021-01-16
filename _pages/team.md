@@ -1,7 +1,6 @@
 ---
 layout: splash
 permalink: /team/
-classes: wide
 
 ashwin:
   - image_path: /assets/profilePic/Ashwin.jpg
