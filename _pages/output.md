@@ -9,8 +9,13 @@ categories: pages
     excerpt: "[Jaeggi, A.; Rajagopalan, A. K.; Morari, M.; Mazzotti, M. Characterizing Ensembles of Platelike Particles via Machine Learning. *Ind. Eng. Chem. Res.* **2021**, 60 (1), 473–483.](https://dx.doi.org/10.1021/acs.iecr.0c04662)"
 
 2019_Boetschi2019b:
-  - title: "12. From Needle-like toward Equant Particles: A Controlled Crystal Shape Engineering Pathway."
+  - title: "12. From Needle-like toward Equant Particles: A Controlled Crystal Shape Engineering Pathway"
     excerpt: "[Bötschi, S.; Rajagopalan, A. K.; Rombaut, I.; Morari, M.; Mazzotti, M. From Needle-like toward Equant Particles: A Controlled Crystal Shape Engineering Pathway. *Comput. Chem. Eng.* **2019**, 131, 106581.](https://linkinghub.elsevier.com/retrieve/pii/S0098135419307525)"
+
+
+2019_Subraveti2019:
+  - title: "11. Cycle Design and Optimization of Pressure Swing Adsorption Cycles for Pre-Combustion CO<sub>2</sub> Capture"
+    excerpt: "[Subraveti, S. G.; Pai, K. N.; Rajagopalan, A. K.; Wilkins, N. S.; Rajendran, A.; Jayaraman, A.; Alptekin, G. Cycle Design and Optimization of Pressure Swing Adsorption Cycles for Pre-Combustion CO<sub>2</sub> Capture. *Appl. Energy* **2019**, 254, 113624.](https://linkinghub.elsevier.com/retrieve/pii/S030626191931298X)"
 
 ---
 
