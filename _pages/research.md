@@ -1,6 +1,10 @@
 ---
-layout: splash
+layout: single
+classes: wide
 permalink: /research/
+title: "Research"
+author_profile: true
+categories: pages
 
 overview:
   - image_path: /assets/research/AreaOfInterest.jpeg
