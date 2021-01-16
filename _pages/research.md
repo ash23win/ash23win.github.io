@@ -1,6 +1,8 @@
 ---
 layout: splash
 permalink: /research/
+categories: pages
+title: "Research"
 
 overview:
   - image_path: /assets/research/AreaOfResearch.jpeg
