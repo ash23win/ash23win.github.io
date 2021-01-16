@@ -46,8 +46,10 @@ The crystallization step in a typical pharmaceutical production chain is followe
 
 {% include figure image_path="/assets/research/Downstream.jpg" alt="Downstream" caption="Figure 2: Processability of a compound that exhibits equant and elongated morphology. The equant particles forms a nice heap (good flowability), while the elongated shaped forms huge lumps (poor flowability)." %}
 
-In this sub area the aim is to bridge the gap between the upstream crystallization step (discussed in the previous sub area) with the downstream processing steps. In a nut shell, the goal is to devise a mathematical model that takes as an input the size and shape characteristics of a particulate population and gives as an output the processability of the final product after downstream processing. To this aim, the following steps will be undertaken:
+In this sub area the aim is to bridge the gap between the upstream crystallization step (discussed in the previous sub area) with the downstream processing steps. In a nut shell, the goal is to devise a mathematical model that takes as an input the size and shape characteristics of a particulate population and gives as an output the processability of the final product after downstream processing (see Figure 3). To this aim, the following steps will be undertaken:
 * Modeling the individual downstream processing steps using simple/complex particle dynamics models
 * Evaluating the impact of different PSSDs on the downstream processes
 * Linking the upstream and downstream processing steps using novel mathematical modeling tools (e.g. surrogate (machine learning) and/or hybrid modeling)
 {: .text-justify}
+
+{% include figure image_path="/assets/research/DownstreamVision.jpg" alt="Downstream Vision" caption="Figure 3: A potential scenario in the future, where given an input PSSD one can quantitatively judge the processability of particulate matter. Size and shape manipualation tools can then be employed to re-engineer the particles to enhance its processability." %}
