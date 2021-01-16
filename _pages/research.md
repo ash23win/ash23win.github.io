@@ -37,3 +37,5 @@ In this very first sub area, the goal is to develop size and shape manipulation 
 * Fine-tuning the process using the estimated kinetics, optimizing the process in a modeling framework, and testing the performance in an experimental setting
 * Employing feedback control methodologies to have a robust process performance
 {: .text-justify}
+
+{% include figure image_path="/assets/research/ThreeStageProcess.jpg" alt="Three stage process" caption="This is a figure caption." %}
