@@ -33,9 +33,9 @@ Crystallization typically involves a number of fundamental phenomena - often poo
 {: .text-justify}
 
 Employing imaging based techniques for crystallization processes, even though being powerful, poses several engineering challenges. For example, the nature in which these devices operate (*in situ* or *ex situ*, online or offline), the maximum suspension density that the device can tolerate without losing accuracy, physical and optical properties of crystals and solvent (e.g. chiral compounds, aggregating compounds) are some of the commonly encountered problems. Some of things that are under consideration include developing:
-* an \textit{in situ} multiprojection imaging probe
+* an *in situ* multiprojection imaging probe
 * an imaging tool to track the size and shape chiral systems
-* a \textit{dry} powder size and shape characterization tool
+* a *dry* powder size and shape characterization tool
 {: .text-justify}
 
 The projects in this sub area are open ended and will lead to scenarios with high risk and high gain. Advancements in other communities like computer vision and machine learning, form the basis of innovation in this sub area.
