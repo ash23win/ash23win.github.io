@@ -27,6 +27,20 @@ The work performed in this group will hold a small piece of a very large puzzle 
 * Downstream processability of crystallized products
 {: .text-justify}
 
+
+<h4>Characterization of the size and shape of particulate populations</h4>
+Crystallization typically involves a number of fundamental phenomena - often poorly understood - like nucleation, growth, dissolution, breakage, to name a few. The lack of reliable monitoring and characterization tools inhibits attaining deeper insights into the mechanisms involved, which thereof affects the robust and optimal operation of these crystallization processes. Crystals exhibit different shapes depending on the crystal habit, and an accurate characterization of shape is critical in the design and control of such processes. Often, commercially available crystallization process characterization tools condense shape related information of crystals into a single characteristic length. Commercially available sizing tools that rely on the assumption of a single characteristic length, such as focused beam reflectance measurement (FBRM), laser diffraction, Coulter counter, as well as monoscopic imaging tools, are prone to errors and misleading effects for nonspherical particles. Multiprojection imaging systems, have the ability to tackle shape-related issues rather satisfactorily, thus reducing the ill effects encountered by commercial sizing tools for nonspherical particles.
+{: .text-justify}
+
+Employing imaging based techniques for crystallization processes, even though being powerful, poses several engineering challenges. For example, the nature in which these devices operate (*in situ* or *ex situ*, online or offline), the maximum suspension density that the device can tolerate without losing accuracy, physical and optical properties of crystals and solvent (e.g. chiral compounds, aggregating compounds) are some of the commonly encountered problems. Some of things that are under consideration include developing:
+* an \textit{in situ} multiprojection imaging probe
+* an imaging tool to track the size and shape chiral systems
+* a \textit{dry} powder size and shape characterization tool
+{: .text-justify}
+
+The projects in this sub area are open ended and will lead to scenarios with high risk and high gain. Advancements in other communities like computer vision and machine learning, form the basis of innovation in this sub area.
+{: .text-justify}
+
 <h4>Manipulation of the size and shape of particulate populations</h4>
 Recent developments in imaging techniques have led to characterizing nonequant crystals (particularly needle-like crystals) with moderate to high accuracy, which was not possible till a few years back. This has contributed to an increased interest in size and shape manipulation of nonequant crystals, which influences the downstream processing operations. Processes developed to manipulate the size and shape of nonequant populations have exploited temperature cycling or mechanical action or combination of these (see Figure 1). It was evident from many of these studies that incorporating additional actuators like antisolvent or growth inhibiting modifiers might be beneficial to induce a broader manipulation of size and shape.
 {: .text-justify}
