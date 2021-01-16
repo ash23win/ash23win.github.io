@@ -1,7 +1,7 @@
 ---
 layout: splash
 excerpt: "**Purification And Separation Technology Laboratory** <br /><br /><br />
- <A young and dynamic group of engineers working on solving challenging purification and separation problems of the 21st century and beyond!"
+ A young and dynamic group of engineers working on solving challenging purification and separation problems of the 21st century and beyond!"
 header:
   overlay_image: /assets/images/LandingPageHeader.jpeg
   overlay_filter: 0.25
