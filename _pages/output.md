@@ -45,18 +45,26 @@ categories: pages
 2018_Rajagopalan2018a:
   - title: "Feedback Control for the Size and Shape Evolution of Needle-like Crystals in Suspension. II. Cooling Crystallization Experiments"
     excerpt: "**06.** [Rajagopalan, A. K.; Bötschi, S.; Morari, M.; Mazzotti, M. Feedback Control for the Size and Shape Evolution of Needle-like Crystals in Suspension. II. Cooling Crystallization Experiments. *Cryst. Growth Des.* **2018**, 18 (10), 6185–6196.](https://doi.org/10.1021/acs.cgd.8b01048)"
+    image_path: /assets/output/Rajagopalan2018a.jpeg
+    alt: "Rajagopalan2018a"
 
 2018_Boetschi2018b:
   - title: "An Alternative Approach to Estimate Solute Concentration: Exploiting the Information Embedded in the Solid Phase"
     excerpt: "**05.** [Bötschi, S.; Rajagopalan, A. K.; Morari, M.; Mazzotti, M. An Alternative Approach to Estimate Solute Concentration: Exploiting the Information Embedded in the Solid Phase. *J. Phys. Chem. Lett.* **2018**, 9 (15), 4210–4214.](https://doi.org/10.1021/acs.jpclett.8b01998)"
-
+    image_path: /assets/output/Boetschi2018b.jpeg
+    alt: "Boetschi2018b"
+    
 2018_Boetschi2018a:
   - title: "Feedback Control for the Size and Shape Evolution of Needle-like Crystals in Suspension. I. Concepts and Simulation Studies"
     excerpt: "**04.** [Bötschi, S.; Rajagopalan, A. K.; Morari, M.; Mazzotti, M. Feedback Control for the Size and Shape Evolution of Needle-like Crystals in Suspension. I. Concepts and Simulation Studies. *Cryst. Growth Des.* **2018**, 18 (8), 4470–4483.](https://doi.org/10.1021/acs.cgd.8b00473)"
-
+    image_path: /assets/output/Boetschi2018a.jpeg
+    alt: "Boetschi2018a"
+    
 2017_Rajagopalan2017:
   - title: "A Comprehensive Shape Analysis Pipeline for Stereoscopic Measurements of Particulate Populations in Suspension"
     excerpt: "**03.** [Rajagopalan, A. K.; Schneeberger, J.; Salvatori, F.; Bötschi, S.; Ochsenbein, D. R.; Oswald, M. R.; Pollefeys, M.; Mazzotti, M. A Comprehensive Shape Analysis Pipeline for Stereoscopic Measurements of Particulate Populations in Suspension. *Powder Technol.* **2017**, 321, 479–493.](https://doi.org/10.1016/j.powtec.2017.08.044)"
+    image_path: /assets/output/Rajagopalan2017.jpeg
+    alt: "Rajagopalan2017"
 
 2016_Rajagopalan2016:
   - title: "Do Adsorbent Screening Metrics Predict Process Performance? A Process Optimisation Based Study for Post-Combustion Capture of CO<sub>2</sub>"
