@@ -10,6 +10,11 @@ categories: pages
     image_path: /assets/output/Jaeggi2021.gif
     alt: "Jaeggi2021"
 
+
+RajagopalanThesis2019:
+  - title: " Dual Projection Imaging System to Characterize Crystallization Processes: Design and Applications"
+    excerpt: "Rajagopalan, A. K. A Dual Projection Imaging System to Characterize Crystallization Processes: Design and Applications, *Doctoral Thesis*, ETH Zurich, **2019**."
+
 2019_Boetschi2019b:
   - title: "From Needle-like toward Equant Particles: A Controlled Crystal Shape Engineering Pathway"
     excerpt: "**12.** [Bötschi, S.; Rajagopalan, A. K.; Rombaut, I.; Morari, M.; Mazzotti, M. From Needle-like toward Equant Particles: A Controlled Crystal Shape Engineering Pathway. *Comput. Chem. Eng.* **2019**, 131, 106581.](https://doi.org/10.1016/j.compchemeng.2019.106581)"
@@ -81,9 +86,10 @@ categories: pages
 Research Output
 =
 
+## Peer-reviewed Journal Articles
 <table style="width:100%">
   <tr>
-    <th><a href="#2021J" class="btn btn--primary">2021</a></th>
+    <th><a href="#2021" class="btn btn--primary">2021</a></th>
     <th><a href="#2019" class="btn btn--primary">2019</a></th>
     <th><a href="#2018" class="btn btn--primary">2018</a></th>
     <th><a href="#2017" class="btn btn--primary">2017</a></th>
@@ -94,7 +100,17 @@ Research Output
 
 <br />
 
-[2021](#2021J)
+## Thesis
+<table style="width:100%">
+  <tr>
+    <th><a href="#2019-1" class="btn btn--primary">2019</a></th>
+    <th><a href="#2015" class="btn btn--primary">2014</a></th>
+  </tr>
+</table>
+
+<br />
+
+2021
 ----
 {% include feature_row id="2021_Jaeggi" type="left" %}
 
@@ -125,3 +141,12 @@ Research Output
 2014
 ----
 {% include feature_row id="2016_Rajagopalan2014" type="left" %}
+
+
+## Thesis
+2019
+----
+{% include feature_row id="RajagopalanThesis2019" type="left" %}
+
+2015
+----
