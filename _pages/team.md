@@ -14,11 +14,11 @@ ashwin:
     **Education** <br />
     Dr. Sc. ETH Zurich, ETH Zurich, Switzerland, **2019** <br />
     MSc Chemical Engineering, University of Alberta, Canada, **2015** <br />
-    BTech Chemical Engineering, National Institute of Technology Tiruchirappalli (NITT), India, **2013**  <br /> <br /> <br />
+    BTech Chemical Engineering, National Institute of Technology Tiruchirappalli (NITT), India, **2013**  <br />
     
     **Awards  <br />** 
     EFCE Excellence Award in Crystallization, European Federation of Chemical Engineering, **2020** <br />
-    S. H. Ibrahim Memorial Award for Best Outgoing Student in Chemical Engineering (NITT), **2013** <br /> <br /> <br />
+    S. H. Ibrahim Memorial Award for Best Outgoing Student in Chemical Engineering (NITT), **2013** <br /> <br />
     [[Mail](mailto:ash23win@gmail.com)] [[CV](/assets/cv/Rajagopalan_CVJan21.pdf)]"
 ---
 
