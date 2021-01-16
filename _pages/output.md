@@ -111,8 +111,7 @@ Research Output
 ----
 {% include feature_row id="2021_Jaeggi" type="left" %}
 
-2019
-----
+<h3 id="2019J">2019</h3>
 {% include feature_row id="2019_Boetschi2019b" type="left" %}
 {% include feature_row id="2019_Subraveti2019" type="left" %}
 {% include feature_row id="2019_Boetschi2019a" type="left" %}
