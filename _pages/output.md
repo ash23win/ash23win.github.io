@@ -141,7 +141,7 @@ Research Output
 
 
 ## Thesis
-### 2019<a id="2019T" ></a>
+<h3 id="2019T">2019</h3>
 
 {% include feature_row id="RajagopalanThesis2019" type="left" %}
 
