@@ -86,7 +86,7 @@ RajagopalanThesis2019:
 Research Output
 =
 
-## Peer-reviewed Journal Articles
+**Peer-reviewed Journal Articles**
 <table style="width:100%">
   <tr>
     <th><a href="#2021" class="btn btn--primary">2021</a></th>
@@ -98,16 +98,13 @@ Research Output
   </tr>
 </table>
 
-<br />
-
-## Thesis
+**Thesis**
 <table style="width:100%">
   <tr>
-    <th><a href="#2019-1" class="btn btn--primary">2019</a></th>
+    <th><a href="#2019" class="btn btn--primary">2019</a></th>
     <th><a href="#2015" class="btn btn--primary">2014</a></th>
   </tr>
 </table>
-
 <br />
 
 2021
