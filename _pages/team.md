@@ -16,4 +16,7 @@ ashwin:
     S. H. Ibrahim Memorial Award for Best Outgoing Student in Chemical Engineering (NITT), **2013** <br />"  
 ---
 
+Team
+=
+
 {% include feature_row id="ashwin" type="left" %}
