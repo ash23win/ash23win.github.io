@@ -90,7 +90,7 @@ Research Output
 <table style="width:100%">
   <tr>
     <th><a href="#2021" class="btn btn--primary">2021</a></th>
-    <th><a href="#2019" class="btn btn--primary">2019</a></th>
+    <th><a href="#2019J" class="btn btn--primary">2019</a></th>
     <th><a href="#2018" class="btn btn--primary">2018</a></th>
     <th><a href="#2017" class="btn btn--primary">2017</a></th>
     <th><a href="#2016" class="btn btn--primary">2016</a></th>
@@ -112,6 +112,7 @@ Research Output
 {% include feature_row id="2021_Jaeggi" type="left" %}
 
 <h3 id="2019J">2019</h3>
+---
 {% include feature_row id="2019_Boetschi2019b" type="left" %}
 {% include feature_row id="2019_Subraveti2019" type="left" %}
 {% include feature_row id="2019_Boetschi2019a" type="left" %}
@@ -141,7 +142,7 @@ Research Output
 
 ## Thesis
 <h3 id="2019T">2019</h3>
-
+---
 {% include feature_row id="RajagopalanThesis2019" type="left" %}
 
 2014
