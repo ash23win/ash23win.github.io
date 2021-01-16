@@ -1,9 +1,17 @@
 ---
 layout: splash
+title:  "Research Output"
 permalink: /output/
+categories: pages
+
 2021_Jaeggi:
   - title: "**13.** Characterizing Ensembles of Platelike Particles via Machine Learning"
     excerpt: "[Jaeggi, A.; Rajagopalan, A. K.; Morari, M.; Mazzotti, M. Characterizing Ensembles of Platelike Particles via Machine Learning. *Ind. Eng. Chem. Res.* **2021**, 60 (1), 473–483.](https://dx.doi.org/10.1021/acs.iecr.0c04662)"
+
+2019_Boetschi2019b:
+  - title: "**12.** From Needle-like toward Equant Particles: A Controlled Crystal Shape Engineering Pathway."
+    excerpt: "[Bötschi, S.; Rajagopalan, A. K.; Rombaut, I.; Morari, M.; Mazzotti, M. From Needle-like toward Equant Particles: A Controlled Crystal Shape Engineering Pathway. *Comput. Chem. Eng.* **2019**, 131, 106581.](https://linkinghub.elsevier.com/retrieve/pii/S0098135419307525)"
+
 ---
 
 Publications
@@ -23,3 +31,8 @@ Publications
 2021
 ----
 {% include feature_row id="2021_Jaeggi" type="left" %}
+
+
+2019
+----
+{% include feature_row id="2019_Boetschi2019b" type="left" %}
