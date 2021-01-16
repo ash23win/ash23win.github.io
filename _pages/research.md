@@ -38,4 +38,4 @@ In this very first sub area, the goal is to develop size and shape manipulation 
 * Employing feedback control methodologies to have a robust process performance
 {: .text-justify}
 
-{% include figure image_path="/assets/research/ThreeStageProcess.jpg" alt="Three stage process" caption="This is a figure caption." %}
+{% include figure image_path="/assets/research/ThreeStageProcess.jpg" alt="Three stage process" caption="A schematic of a three stage process developed to manipulate the size and shape of elongated crystals to equant crystals. The process employs temperature cycling and mechanical action to achieve the goal. (Salvatori and Mazzotti, *Ind. Eng. Chem. Res.* **2017**, 56, 9188−9201.)" %}
