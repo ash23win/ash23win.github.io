@@ -42,6 +42,7 @@ In this sub area, the goal is to develop size and shape manipulation processes f
 
 <h4>Downstream processability of crystallized products</h4>
 The crystallization step in a typical pharmaceutical production chain is followed by the downstream processing steps, i.e. filtration, washing, drying, redissolution, and formulation. These steps are as important as the crystallization step in determining the final properties of the crystallized product. The particle size and shape distribution (PSSD) after crystallization is one of the major factors that affects the downstream processes apart from surface properties, electrostatic properties, moisture content, and brittleness. 
+{: .text-justify}
 
 {% include figure image_path="/assets/research/Downstream.jpg" alt="Downstream" caption="Figure 2: Processability of a compound that exhibits equant and elongated morphology. The equant particles forms a nice heap (good flowability), while the elongated shaped forms huge lumps (poor flowability)." %}
 
@@ -49,3 +50,4 @@ In this sub area the aim is to bridge the gap between the upstream crystallizati
 * Modeling the individual downstream processing steps using simple/complex particle dynamics models
 * Evaluating the impact of different PSSDs on the downstream processes
 * Linking the upstream and downstream processing steps using novel mathematical modeling tools (e.g. surrogate (machine learning) and/or hybrid modeling)
+{: .text-justify}
