@@ -15,4 +15,4 @@ overview:
 <br />
 
 
-{% include feature_row id="ashwin" type="left" %}
+{% include feature_row id="overview" type="center" %}
