@@ -76,8 +76,10 @@ categories: pages
 
 ---
 
+<br />
+
 Research Output
-============
+=
 
 <table style="width:100%">
   <tr>
@@ -89,7 +91,8 @@ Research Output
     <th><a href="#2014" class="btn btn--primary">2014</a></th>
   </tr>
 </table>
---------------------------------------------------------------
+
+<br />
 
 2021
 ----
