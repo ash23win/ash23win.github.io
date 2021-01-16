@@ -14,7 +14,8 @@ ashwin:
     
     **Awards  <br />** 
     EFCE Excellence Award in Crystallization, European Federation of Chemical Engineering, **2020** <br />
-    S. H. Ibrahim Memorial Award for Best Outgoing Student in Chemical Engineering (NITT), **2013** <br />"  
+    S. H. Ibrahim Memorial Award for Best Outgoing Student in Chemical Engineering (NITT), **2013** <br /> <br /> <br />
+    [[Mail](mailto:billyrick@rick.com)] [[CV](/assets/cv/Rajagopalan_CVJan21.pdf)]"
 ---
 
 <br />
