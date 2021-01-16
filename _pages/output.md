@@ -101,7 +101,7 @@ Research Output
 **Thesis**
 <table style="width:100%">
   <tr>
-    <th><a href="#2019T" class="btn btn--primary">2019</a></th>
+    <th><a href="#2019-1" class="btn btn--primary">2019</a></th>
     <th><a href="#2015" class="btn btn--primary">2014</a></th>
   </tr>
 </table>
@@ -141,7 +141,7 @@ Research Output
 
 
 ## Thesis
-2019<a name="2019T"></a>
+2019
 ----
 {% include feature_row id="RajagopalanThesis2019" type="left" %}
 
