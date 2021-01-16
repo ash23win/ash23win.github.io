@@ -13,6 +13,8 @@ categories: pages
 2019_Boetschi2019b:
   - title: "From Needle-like toward Equant Particles: A Controlled Crystal Shape Engineering Pathway"
     excerpt: "**12.** [Bötschi, S.; Rajagopalan, A. K.; Rombaut, I.; Morari, M.; Mazzotti, M. From Needle-like toward Equant Particles: A Controlled Crystal Shape Engineering Pathway. *Comput. Chem. Eng.* **2019**, 131, 106581.](https://doi.org/10.1016/j.compchemeng.2019.106581)"
+    image_path: /assets/output/Boetschi2019b.jpg
+    alt: "Boetschi2019b"
 
 2019_Subraveti2019:
   - title: "Cycle Design and Optimization of Pressure Swing Adsorption Cycles for Pre-Combustion CO<sub>2</sub> Capture"
@@ -21,15 +23,21 @@ categories: pages
 2019_Boetschi2019a:
   - title: "Feedback Control for the Size and Shape Evolution of Needle-like Crystals in Suspension. IV. Modeling and Control of Dissolution"
     excerpt: "**10.** [Bötschi, S.; Rajagopalan, A. K.; Morari, M.; Mazzotti, M. Feedback Control for the Size and Shape Evolution of Needle-like Crystals in Suspension. IV. Modeling and Control of Dissolution. *Cryst. Growth Des.* **2019**, 19 (7), 4029–4043.](https://doi.org/10.1021/acs.cgd.9b00445)"
+    image_path: /assets/output/Boetschi2019a.jpeg
+    alt: "2019_Boetschi2019a"
 
 2019_Rajagopalan2019:
   - title: "Feedback Control for the Size and Shape Evolution of Needle-like Crystals in Suspension. III. Wet Milling"
     excerpt: "**09.** [Rajagopalan, A. K.; Bötschi, S.; Morari, M.; Mazzotti, M. Feedback Control for the Size and Shape Evolution of Needle-like Crystals in Suspension. III. Wet Milling. *Cryst. Growth Des.* **2019**, 19 (5), 2845–2861.](https://doi.org/10.1021/acs.cgd.9b00080)"
+    image_path: /assets/output/Rajagopalan2019.jpeg
+    alt: "Rajagopalan2019"
 
 2019_Subramanian2019:
   - title: "Analysis of a Batch Adsorber Analogue for Rapid Screening of Adsorbents for Postcombustion CO<sub>2</sub> Capture"
     excerpt: "**08.** [Subramanian Balashankar, V.; Rajagopalan, A. K.; de Pauw, R.; Avila, A. M.; Rajendran, A. Analysis of a Batch Adsorber Analogue for Rapid Screening of Adsorbents for Postcombustion CO<sub>2</sub> Capture. *Ind. Eng. Chem. Res.* **2019**, 58 (8), 3314–3328.](https://doi.org/10.1021/acs.iecr.8b05420)"
-
+    image_path: /assets/output/Subramanian2019.gif
+    alt: "Subramanian2019"
+    
 2018_Rajagopalan2018b:
   - title: "The Effect of Nitrogen Adsorption on Vacuum Swing Adsorption Based Post-Combustion CO<sub>2</sub> Capture"
     excerpt: "**07.** [Rajagopalan, A. K.; Rajendran, A. The Effect of Nitrogen Adsorption on Vacuum Swing Adsorption Based Post-Combustion CO<sub>2</sub> Capture. *Int. J. Greenh. Gas Control* **2018**, 78, 437–447.](https://doi.org/10.1016/j.ijggc.2018.09.002)"
