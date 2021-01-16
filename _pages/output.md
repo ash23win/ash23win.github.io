@@ -7,6 +7,8 @@ categories: pages
 2021_Jaeggi:
   - title: "Characterizing Ensembles of Platelike Particles via Machine Learning"
     excerpt: "**13.** [Jaeggi, A.; Rajagopalan, A. K.; Morari, M.; Mazzotti, M. Characterizing Ensembles of Platelike Particles via Machine Learning. *Ind. Eng. Chem. Res.* **2021**, 60 (1), 473–483.](https://doi.org/10.1021/acs.iecr.0c04662)"
+    image_path: /assets/output/Jaeggi2021.gif
+    alt: "Jaeggi2021"
 
 2019_Boetschi2019b:
   - title: "From Needle-like toward Equant Particles: A Controlled Crystal Shape Engineering Pathway"
