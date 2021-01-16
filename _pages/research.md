@@ -2,16 +2,13 @@
 layout: splash
 permalink: /research/
 title: "Research"
-author_profile: true
 categories: pages
 
 overview:
   - image_path: /assets/research/AreaOfInterest.jpeg
-    alt: "Overview of Area of Interest"
-    title: "Research Overview"
-    excerpt: "Hi There!"
-    btn_label: "Particulate Technology"
-    btn_class: "btn btn--primary"
+    alt: "Area of Interest"
+    title: "Toward Sustainable Purification and Separation Processes"
+    excerpt: "The vision of the PAST laboratory is to develop technologies for challenging purification and separation problems. The laboratory has three core focus areas of research: *Particulate Technology*, *Gas Separation*, and *Porous Materials*."
 ---
 
 <br />
