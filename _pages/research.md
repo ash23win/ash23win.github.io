@@ -27,7 +27,7 @@ The work performed in this group will hold a small piece of a very large puzzle 
 * Downstream processability of crystallized products
 {: .text-justify}
 
-<h4 id="ParTech">Manipulation of the size and shape of particulate populations</h4>
+<h4>Manipulation of the size and shape of particulate populations</h4>
 Recent developments in imaging techniques have led to characterizing nonequant crystals (particularly needle-like crystals) with moderate to high accuracy, which was not possible till a few years back. This has contributed to an increased interest in size and shape manipulation of nonequant crystals, which influences the downstream processing operations. Processes developed to manipulate the size and shape of nonequant populations have exploited temperature cycling or mechanical action or combination of these (see Figure 1). It was evident from many of these studies that incorporating additional actuators like antisolvent or growth inhibiting modifiers might be beneficial to induce a broader manipulation of size and shape.
 {: .text-justify}
 
@@ -39,3 +39,13 @@ In this sub area, the goal is to develop size and shape manipulation processes f
 {: .text-justify}
 
 {% include figure image_path="/assets/research/ThreeStageProcess.jpg" alt="Three stage process" caption="Figure 1: A schematic of a three stage process developed to manipulate the size and shape of elongated crystals to equant crystals. The process employs temperature cycling and mechanical action to achieve the goal. (Salvatori and Mazzotti, *Ind. Eng. Chem. Res.* **2017**, 56, 9188−9201.)" %}
+
+<h4>Downstream processability of crystallized products</h4>
+The crystallization step in a typical pharmaceutical production chain is followed by the downstream processing steps, i.e. filtration, washing, drying, redissolution, and formulation. These steps are as important as the crystallization step in determining the final properties of the crystallized product. The particle size and shape distribution (PSSD) after crystallization is one of the major factors that affects the downstream processes apart from surface properties, electrostatic properties, moisture content, and brittleness. 
+
+{% include figure image_path="/assets/research/Downstream.jpg" alt="Downstream" caption="Figure 2: XXX" %}
+
+The project that is proposed in this second sub area is aimed at bridging the gap between the upstream crystallization step (discussed in the previous sub area) with the downstream processing steps. In a nut shell, the goal would be to devise a mathematical model that takes as an input the size and shape characteristics of a particulate population and gives as an output the processability of the final product after downstream processing. To this aim, the following steps will be undertaken in this project:
+* Modeling the individual downstream processing steps using simple/complex particle dynamics models
+* Evaluating the impact of different PSSDs on the downstream processes
+* Linking the upstream and downstream processing steps using novel mathematical modeling tools (e.g. surrogate and/or hybrid modeling)
