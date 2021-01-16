@@ -91,7 +91,7 @@ RajagopalanThesis2015:
 Research Output
 =
 
-**Peer-reviewed Journal Articles**
+**Peer-reviewed Scientific Journals**
 <table style="width:100%">
   <tr>
     <th><a href="#2021J" class="btn btn--primary">2021</a></th>
@@ -112,6 +112,8 @@ Research Output
 </table>
 <br />
 
+
+### Peer-reviewed Scientific Journals
 <h3 id="2021J">2021</h3>
 ----
 {% include feature_row id="2021_Jaeggi" type="left" %}
@@ -145,7 +147,7 @@ Research Output
 {% include feature_row id="2014_Rajagopalan2014" type="left" %}
 
 
-## Thesis
+### Thesis
 <h3 id="2019T">2019</h3>
 ---
 {% include feature_row id="RajagopalanThesis2019" type="left" %}
