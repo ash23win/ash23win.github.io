@@ -8,8 +8,6 @@ overview:
     title: "Research Overview"
     btn_label: "Particulate Technology"
     btn_class: "btn--primary"
-    btn_label: "Gas Separation"
-    btn_class: "btn--primary"
 ---
 
 <br />
