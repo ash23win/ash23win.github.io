@@ -10,10 +10,11 @@ categories: pages
     image_path: /assets/output/Jaeggi2021.gif
     alt: "Jaeggi2021"
 
-
 RajagopalanThesis2019:
-  - title: " Dual Projection Imaging System to Characterize Crystallization Processes: Design and Applications"
-    excerpt: "Rajagopalan, A. K. A Dual Projection Imaging System to Characterize Crystallization Processes: Design and Applications, *Doctoral Thesis*, ETH Zurich, **2019**."
+  - title: "Dual Projection Imaging System to Characterize Crystallization Processes: Design and Applications"
+    excerpt: "[Rajagopalan, A. K. A Dual Projection Imaging System to Characterize Crystallization Processes: Design and Applications, *Doctoral Thesis*, ETH Zurich, **2019**.](https://doi.org/10.3929/ethz-b-000369948)"
+    image_path: /assets/output/AshwinDoctoralThesis.jpg
+    alt: "RajagopalanThesis2019"
 
 2019_Boetschi2019b:
   - title: "From Needle-like toward Equant Particles: A Controlled Crystal Shape Engineering Pathway"
@@ -75,7 +76,11 @@ RajagopalanThesis2019:
   - title: "Do Adsorbent Screening Metrics Predict Process Performance? A Process Optimisation Based Study for Post-Combustion Capture of CO<sub>2</sub>"
     excerpt: "**02.** [Rajagopalan, A. K.; Avila, A. M.; Rajendran, A. Do Adsorbent Screening Metrics Predict Process Performance? A Process Optimisation Based Study for Post-Combustion Capture of CO<sub>2</sub>. *Int. J. Greenh. Gas Control* **2016**, 46, 76–85.](https://doi.org/10.1016/j.ijggc.2015.12.033)"
 
-2016_Rajagopalan2014:
+RajagopalanThesis2015:
+  - title: "Material Selection and Process Design for Adsorptive CO<sub>2</sub> Capture"
+    excerpt: ["Rajagopalan, A. K. Material Selection and Process Design for Adsorptive CO<sub>2</sub> Capture, *Master Thesis*, University of Alberta, **2015**.](https://doi.org/10.7939/R3599ZG56)"
+
+2014_Rajagopalan2014:
   - title: "Snapshot of PM Loads Evaluated at Major Road and Railway Intersections in an Urban Locality"
     excerpt: "**01.** Kumar, A.; Srivastava, D.; Agrawal, M.; Goel, A. Snapshot of PM Loads Evaluated at Major Road and Railway Intersections in an Urban Locality. *Int. J. Environ. Prot.* **2014**, 4 (1), 23–29."
 
@@ -89,12 +94,12 @@ Research Output
 **Peer-reviewed Journal Articles**
 <table style="width:100%">
   <tr>
-    <th><a href="#2021" class="btn btn--primary">2021</a></th>
+    <th><a href="#2021J" class="btn btn--primary">2021</a></th>
     <th><a href="#2019J" class="btn btn--primary">2019</a></th>
-    <th><a href="#2018" class="btn btn--primary">2018</a></th>
-    <th><a href="#2017" class="btn btn--primary">2017</a></th>
-    <th><a href="#2016" class="btn btn--primary">2016</a></th>
-    <th><a href="#2014" class="btn btn--primary">2014</a></th>
+    <th><a href="#2018J" class="btn btn--primary">2018</a></th>
+    <th><a href="#2017J" class="btn btn--primary">2017</a></th>
+    <th><a href="#2016J" class="btn btn--primary">2016</a></th>
+    <th><a href="#2014J" class="btn btn--primary">2014</a></th>
   </tr>
 </table>
 
@@ -102,17 +107,17 @@ Research Output
 <table style="width:100%">
   <tr>
     <th><a href="#2019T" class="btn btn--primary">2019</a></th>
-    <th><a href="#2015" class="btn btn--primary">2014</a></th>
+    <th><a href="#2015T" class="btn btn--primary">2014</a></th>
   </tr>
 </table>
 <br />
 
-2021
+<h3 id="2021J">2021</h3>
 ----
 {% include feature_row id="2021_Jaeggi" type="left" %}
 
 <h3 id="2019J">2019</h3>
----
+----
 {% include feature_row id="2019_Boetschi2019b" type="left" %}
 {% include feature_row id="2019_Subraveti2019" type="left" %}
 {% include feature_row id="2019_Boetschi2019a" type="left" %}
@@ -120,24 +125,24 @@ Research Output
 {% include feature_row id="2019_Subramanian2019" type="left" %}
 
 
-2018
+<h3 id="2018J">2018</h3>
 ----
 {% include feature_row id="2018_Rajagopalan2018b" type="left" %}
 {% include feature_row id="2018_Rajagopalan2018a" type="left" %}
 {% include feature_row id="2018_Boetschi2018b" type="left" %}
 {% include feature_row id="2018_Boetschi2018a" type="left" %}
 
-2017
+<h3 id="2021J">2017</h3>
 ----
 {% include feature_row id="2017_Rajagopalan2017" type="left" %}
 
-2016
+<h3 id="2021J">2016</h3>
 ----
 {% include feature_row id="2016_Rajagopalan2016" type="left" %}
 
-2014
+<h3 id="2021J">2014</h3>
 ----
-{% include feature_row id="2016_Rajagopalan2014" type="left" %}
+{% include feature_row id="2014_Rajagopalan2014" type="left" %}
 
 
 ## Thesis
@@ -145,5 +150,6 @@ Research Output
 ---
 {% include feature_row id="RajagopalanThesis2019" type="left" %}
 
-2014
+<h3 id="2015T">2015</h3>
 ----
+{% include feature_row id="RajagopalanThesis2015" type="left" %}
