@@ -3,6 +3,9 @@ layout: splash
 permalink: /research/
 title: "Research"
 categories: pages
+header:
+  overlay_image: /assets/images/LandingPageHeader.jpeg
+  overlay_filter: 0.5
 
 overview:
   - image_path: /assets/research/AreaOfInterest.jpeg
