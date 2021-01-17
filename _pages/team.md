@@ -30,6 +30,5 @@ ashwin:
 
 <br />
 
-=====
 
 {% include feature_row id="ashwin" type="left" %}
