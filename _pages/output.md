@@ -92,7 +92,8 @@ RajagopalanThesis2015:
 
 <br />
 
-**Peer-reviewed Scientific Journals**
+**Peer-reviewed Scientific Journals** <a href="https://scholar.google.com/citations?user=RbjoJDIAAAAJ&hl=en"><i class="fas fa-graduation-cap"></i></a>  <a href="https://orcid.org/0000-0001-8306-455X/"><i class="fab fa-fw fa-orcid"></i></a>
+
 <table style="width:100%">
   <tr>
     <th><a href="#2021J" class="btn btn--primary">2021</a></th>
