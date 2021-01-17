@@ -3,7 +3,10 @@ layout: splash
 title:  "Output"
 permalink: /output/
 categories: pages
-
+header:
+  overlay_image: /assets/images/LandingPageHeader.jpeg
+  overlay_filter: 0.5
+  
 2021_Jaeggi:
   - title: "Characterizing Ensembles of Platelike Particles via Machine Learning"
     excerpt: "**13.** [Jaeggi, A.; Rajagopalan, A. K.; Morari, M.; Mazzotti, M. Characterizing Ensembles of Platelike Particles via Machine Learning. *Ind. Eng. Chem. Res.* **2021**, 60 (1), 473–483.](https://doi.org/10.1021/acs.iecr.0c04662)"
@@ -88,9 +91,6 @@ RajagopalanThesis2015:
 ---
 
 <br />
-
-Output
-=
 
 **Peer-reviewed Scientific Journals**
 <table style="width:100%">
