@@ -79,7 +79,7 @@ RajagopalanThesis2019:
 RajagopalanThesis2015:
   - title: "Material Selection and Process Design for Adsorptive CO<sub>2</sub> Capture"
     excerpt: "[Rajagopalan, A. K. Material Selection and Process Design for Adsorptive CO<sub>2</sub> Capture, *Master Thesis*, University of Alberta, **2015**.](https://doi.org/10.7939/R3599ZG56)"
-    image_path: /assets/images/Blank.jpeg
+    image_path: /assets/images/Blank.jpg
 
 2014_Rajagopalan2014:
   - title: "Snapshot of PM Loads Evaluated at Major Road and Railway Intersections in an Urban Locality"
