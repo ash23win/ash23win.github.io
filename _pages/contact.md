@@ -1,7 +1,7 @@
 ---
 layout: splash
 title: "Contact"
-permalink: /contact/
+permalink: /contact1/
 categories: pages
 header:
   overlay_image: /assets/images/LandingPageHeader.jpeg
