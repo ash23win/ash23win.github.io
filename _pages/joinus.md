@@ -3,12 +3,13 @@ layout: splash
 title: "Join Us"
 permalink: /joinus/
 categories: pages
+header:
+  overlay_image: /assets/images/LandingPageHeader.jpeg
+  overlay_filter: 0.5
 ---
 
 <br />
 
-Join Us!
-==
 ## Opportunities
 ### Postdoctoral researchers
 At the moment we do not have opening for postdoctoral researchers. However, if your interests align with ours, you are highly encouraged to make informal enquiries by contacting [Ashwin](mailto:ash23win@gmail.com). We can always try to explore the different funding options for your research.
