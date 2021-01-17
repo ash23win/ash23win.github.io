@@ -11,11 +11,12 @@ header:
     - label: "Meet us!"
       url: "/team"
 author_profile: true
-
+---
+---
 manchester:
   - image_path: /assets/images/UniManchesterLogo.jpg
     alt: "University of Manchester"
-
+---
 <br />
 
 {% include feature_row id="manchester" type="center" %}
