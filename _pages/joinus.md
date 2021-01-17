@@ -12,10 +12,13 @@ header:
 
 ## Opportunities
 ### Postdoctoral researchers
-At the moment we do not have opening for postdoctoral researchers. However, if your interests align with ours, you are highly encouraged to make informal enquiries by contacting [Ashwin](mailto:ash23win@gmail.com). We can always try to explore the different funding options for your research.
+At the moment we do not have openings for postdoctoral researchers. However, if your interests align with ours, you are highly encouraged to make informal enquiries by contacting [Ashwin](mailto:ash23win@gmail.com). We can always try to explore the different funding options for your research.
 {: .text-justify} 
 
 ### PhD students
+At the moment we have an opening for a PhD student. The following project is offered:
+[***Process Development for Size and Shape Manipulation of Elongated Crystals***](/assets/project/2021_PhDProject_ShapeManipulation.pdf)
+
 If you are a masters student or already hold a masters degree and if you are interested in our research, feel free to make informal enquiries by contacting [Ashwin](mailto:ash23win@gmail.com).
 {: .text-justify} 
 
