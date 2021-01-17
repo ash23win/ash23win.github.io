@@ -20,4 +20,4 @@ manchester:
     alt: "Blank2"
 ---
 <br />
-{% include feature_row id="manchester" type="center" %}
+{% include feature_row id="manchester" %}
