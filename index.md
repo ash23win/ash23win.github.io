@@ -13,14 +13,12 @@ header:
 author_profile: true
 ---
 
+---
 manchester:
   - image_path: /assets/images/UniManchesterLogo.jpg
     alt: "University of Manchester"
 ---
 
 <br />
-
-Team
-=====
 
 {% include feature_row id="manchester" type="center" %}
