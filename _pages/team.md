@@ -5,7 +5,7 @@ permalink: /team/
 categories: pages
 header:
   overlay_image: /assets/images/LandingPageHeader.jpeg
-  overlay_filter: 0.25
+  overlay_filter: 0.5
 
 ashwin:
   - image_path: /assets/profilePic/Ashwin.jpg
@@ -30,7 +30,6 @@ ashwin:
 
 <br />
 
-Team
 =====
 
 {% include feature_row id="ashwin" type="left" %}
