@@ -12,13 +12,12 @@ header:
       url: "/team"
 author_profile: true
 manchester:
+  - image_path: /assets/images/Blank.jpg
+    alt: "Blank1"
   - image_path: /assets/images/UniManchesterLogo.jpg
     alt: "University of Manchester"
-blank:
   - image_path: /assets/images/Blank.jpg
-    alt: "Blank"
+    alt: "Blank2"
 ---
 <br />
-{% include feature_row id="manchester" type="left" %}
 {% include feature_row id="manchester" type="center" %}
-{% include feature_row id="manchester" type="right" %}
