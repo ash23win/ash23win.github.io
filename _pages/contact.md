@@ -1,8 +1,9 @@
 ---
-layout: splash
+layout: single
 title: "Contact"
 permalink: /contact/
 categories: pages
+author_profile: true
 ---
 
 <br /><br />
