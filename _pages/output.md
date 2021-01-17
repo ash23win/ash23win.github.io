@@ -1,6 +1,6 @@
 ---
 layout: splash
-title:  "Research Output"
+title:  "Output"
 permalink: /output/
 categories: pages
 
