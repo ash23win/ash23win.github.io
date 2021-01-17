@@ -3,6 +3,9 @@ layout: splash
 title: "Team"
 permalink: /team/
 categories: pages
+header:
+  overlay_image: /assets/images/LandingPageHeader.jpeg
+  overlay_filter: 0.25
 
 ashwin:
   - image_path: /assets/profilePic/Ashwin.jpg
