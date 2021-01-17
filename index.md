@@ -8,7 +8,7 @@ header:
   actions:
     - label: "What do we do?"
       url: "/research"
-    - label: "Meet us!"
+    - label: "Who are we?"
       url: "/team"
 author_profile: true
 ---
