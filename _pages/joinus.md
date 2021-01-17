@@ -16,8 +16,8 @@ At the moment we do not have openings for postdoctoral researchers. However, if 
 {: .text-justify} 
 
 ### PhD students
-At the moment we have an opening for a PhD student. The following project is offered:
-[***Process Development for Size and Shape Manipulation of Elongated Crystals***](/assets/project/2021_PhDProject_ShapeManipulation.pdf)
+At the moment we have an opening for a PhD student. The following project is offered:<br />
+[***Process Development for Size and Shape Manipulation of Elongated Crystals***](/assets/project/2021_PhDProject_ShapeManipulation1.pdf)
 
 If you are a masters student or already hold a masters degree and if you are interested in our research, feel free to make informal enquiries by contacting [Ashwin](mailto:ash23win@gmail.com).
 {: .text-justify} 
