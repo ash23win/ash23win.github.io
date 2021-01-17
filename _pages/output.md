@@ -89,7 +89,7 @@ RajagopalanThesis2015:
 
 <br />
 
-Research Output
+Output
 =
 
 **Peer-reviewed Scientific Journals**
