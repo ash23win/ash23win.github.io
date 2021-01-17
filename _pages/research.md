@@ -18,7 +18,7 @@ overview:
 
 {% include feature_row id="overview" type="center" %}
 
-<a href="#ParTech" class="btn btn--primary">Particulate Technology</a> <a href="#" class="btn btn--primary">Gas Separation</a> <a href="#" class="btn btn--primary">Porous Materials</a>
+<p align="center"><a href="#ParTech" class="btn btn--primary">Particulate Technology</a> <a href="#" class="btn btn--primary">Gas Separation</a> <a href="#" class="btn btn--primary">Porous Materials</a></p>
 
 <h3 id="ParTech">Particulate Technology</h3>
 Crystals can be found today in every aspect of our lives. They appear either as a naturally occurring material or as a chemically synthesized product from a industrial process. Minerals, gemstones, and snowflakes are examples of the former, while pharmaceutical drugs, sugar, table salt, and cocoa fat in chocolates are examples of the latter. Crystallization is a separation and purification technique, which is defined as a phase change in which a crystalline product is obtained from a solution or a melt. Crystallization processes are frequently applied in food, in bioprocessing, and in pharmaceuticals industries, to name a few. The crystalline products from these industries are produced in scales ranging from a few milligrams to a few thousand tons annually. Even though the process of crystallization appears simple on paper, there exist several bottlenecks for a robust, reliable, and safe operation. Irrespective of the widespread use of crystallization for decades, it can be said with certainty that it is poorly understood. 
