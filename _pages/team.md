@@ -13,7 +13,8 @@ ashwin:
     title: "Ashwin Kumar RAJAGOPALAN"
     excerpt: "
     **Professional Appointments** <br />
-    **Lecturer (Academic & Research), Department of Chemical Engineering and Analytical Science**<br />
+    **Lecturer (Academic & Research)** <br />
+    **Department of Chemical Engineering and Analytical Science**<br />
     **University of Manchester, United Kingdom (Aug. 2021 - )** <br /><br />
     **SNSF Early Postdoc.Mobility Fellow, Imperial College London, United Kingdom** <br />
     Postdoctoral Research Associate, ETH Zurich, Switzerland, **2020** <br /> <br />
